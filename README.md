@@ -1,4 +1,4 @@
-# Title of Activity
+# RR-Music-Library
 
 This activity is part of React & Redux. Reference the activity guide found in React Dataflow to complete the activity. There is no starter for this code-along series.
 
@@ -26,14 +26,3 @@ part4 - Solution, this branch is the completed code for the fourth code-along ac
 Please submit the activity through canvas.
 
 ***
-## Creating Your Own README.md
-If you are hosting your 'completed' version of this activity on your personal Github account, make sure to include the following:
-* A summary of the project
-* A link to a live sample of the activity
-* Technologies used to complete the project
-* A note that it was completed as part of your course curriculum
-* Instructions on how to get the project started for viewing locally
-* Optional: a list of features or bugs you would like to add or address
-
-***
-CE Note: This activity can be found in 7.3.2, 7.3.3, 7.3.5, 7.3.6, and 7.3.10
